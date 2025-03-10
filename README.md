@@ -1,6 +1,6 @@
 # <h1 align="center"> Telegram View Bot <\> </h1>
 <p align="center">
-  <img src="https://i.ibb.co/mF90B4QQ/boy.png" alt="Telegram View Bot Logo" width="640" height="360">
+  <img src="https://i.ibb.co/mF90B4QQ/boy.png" alt="Telegram View Bot Logo" width="385" height="400">
 </p>
 
 ## 🇹🇷 Türkçe
