@@ -166,10 +166,10 @@ python3 telegram_view_bot.py
 ### 🔄 Updates & Support
 Stay updated with the latest features and improvements to Telegram View Bot:
 <p align="center">
-  <a href="https://telegram.me/ViewBotSupport">
+  <a href="https://telegram.me/NexAwaCHAT">
     <img src="https://img.shields.io/badge/Join-Support%20Group-blue?style=for-the-badge&logo=telegram">
   </a>
-  <a href="https://telegram.me/ViewBotChannel">
+  <a href="https://telegram.me/NexAwa">
     <img src="https://img.shields.io/badge/Join-Update%20Channel-blue?style=for-the-badge&logo=telegram">
   </a>
 </p>
