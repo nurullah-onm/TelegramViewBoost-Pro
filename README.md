@@ -1,6 +1,6 @@
 # <h1 align="center"> Telegram View Bot <\> </h1>
 <p align="center">
-  <img src="https://i.imgur.com/jMspwgS.png" alt="Telegram View Bot Logo" width="640" height="360">
+  <img src="<a href="https://hizliresim.com/5xp66oe"><img src="https://i.hizliresim.com/5xp66oe.png" alt="Resim Yükle"></a>" alt="Telegram View Bot Logo" width="640" height="360">
 </p>
 
 ## 🇹🇷 Türkçe
