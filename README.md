@@ -85,7 +85,7 @@ Telegram View Bot'un en son özellikleri ve iyileştirmeleri hakkında bilgi al�
   </a>
 </p>
 
-<h3>Programı Telegram kanalımızdan indirebilirsiniz.</h3>
+
 
 ### ⚠️ Uyarı
 Bu program sadece eğitim amaçlıdır. Telegram kurallarına aykırı kullanımlardan kullanıcı sorumludur.
@@ -174,7 +174,7 @@ Stay updated with the latest features and improvements to Telegram View Bot:
   </a>
 </p>
 
-<h3>You can download the program from our Telegram channel.</h3>
+
 
 ### ⚠️ Warning
 This program is for educational purposes only. Users are responsible for any usage that violates Telegram's terms.
