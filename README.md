@@ -18,14 +18,52 @@ Telegram View Bot, Telegram kanallarındaki gönderilere görüntülenme eklemek
 - 🌍 Çoklu dil desteği (Türkçe, İngilizce)
 
 ### ⚙️ Kurulum
-1. Python 3.6 veya daha yüksek bir sürümü yükleyin
-2. Gerekli kütüphaneleri yükleyin:
+
+#### Windows
+1. [Python 3.6+](https://www.python.org/downloads/windows/) yükleyin
+2. Komut istemini açın ve gerekli kütüphaneleri yükleyin:
 ```
 pip install requests colorama
 ```
 3. Programı indirin ve çalıştırın:
 ```
 python telegram_view_bot.py
+```
+
+#### Linux (Ubuntu, Debian)
+```bash
+# Repository'i indirin
+git clone https://github.com/nurullah-onm/TelegramViewBoost-Pro.git
+
+# Proje klasörüne girin
+cd TelegramViewBoost-Pro
+
+# Gerekli kütüphaneleri yükleyin
+pip3 install -r requirements.txt
+
+# Çalıştırma izni verin
+chmod +x telegram_view_bot.py
+
+# Programı çalıştırın
+python3 telegram_view_bot.py
+```
+
+#### Kali Linux
+```bash
+# Repository'i indirin
+git clone https://github.com/nurullah-onm/TelegramViewBoost-Pro.git
+
+# Proje klasörüne girin
+cd TelegramViewBoost-Pro
+
+# Gerekli kütüphaneleri yükleyin
+pip3 install -r requirements.txt
+
+# Çalıştırma izni verin
+chmod +x telegram_view_bot.py
+
+# Programı çalıştırın
+python3 telegram_view_bot.py
 ```
 
 ### 📝 Kullanım
@@ -69,14 +107,52 @@ Telegram View Bot is a powerful tool developed to add views to posts in Telegram
 - 🌍 Multiple language support (Turkish, English)
 
 ### ⚙️ Installation
-1. Install Python 3.6 or higher
-2. Install required libraries:
+
+#### Windows
+1. Install [Python 3.6+](https://www.python.org/downloads/windows/)
+2. Open Command Prompt and install required libraries:
 ```
 pip install requests colorama
 ```
 3. Download and run the program:
 ```
 python telegram_view_bot.py
+```
+
+#### Linux (Ubuntu, Debian)
+```bash
+# Clone the repository
+git clone https://github.com/nurullah-onm/TelegramViewBoost-Pro.git
+
+# Navigate to the project directory
+cd TelegramViewBoost-Pro
+
+# Install required libraries
+pip3 install -r requirements.txt
+
+# Give execution permission
+chmod +x telegram_view_bot.py
+
+# Run the program
+python3 telegram_view_bot.py
+```
+
+#### Kali Linux
+```bash
+# Clone the repository
+git clone https://github.com/nurullah-onm/TelegramViewBoost-Pro.git
+
+# Navigate to the project directory
+cd TelegramViewBoost-Pro
+
+# Install required libraries
+pip3 install -r requirements.txt
+
+# Give execution permission
+chmod +x telegram_view_bot.py
+
+# Run the program
+python3 telegram_view_bot.py
 ```
 
 ### 📝 Usage
